@@ -1,9 +1,5 @@
-# React Flux App with Error
+# React Flux Simple App 
 
-This app has an error in `src/js/stores/AppStores.js` in the `register` method.
+This is the simples possible App that I can think of that implements the React framework on top of the Flux architecture.
 
-Gulp is not throwing any errors.
-
-Error I'm seeing in Console is:
-
-> Uncaught TypeError: Cannot set property 'ID_1' of undefined
+[@bengrunfeld](https://twitter.com/bengrunfeld)
