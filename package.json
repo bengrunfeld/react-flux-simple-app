@@ -1,0 +1,20 @@
+
+{
+  "name": "flux",
+  "version": "0.0.1",
+  "description": "A simple TODOS app in React and Flux",
+  "author": "Ben Grunfeld",
+  "repository": "https://github.com/bengrunfeld/flux-react-todos",
+  "readme": "https://github.com/bengrunfeld/flux-react-todos/README.md",
+  "license": "Apache 2",
+  "devDependencies": {
+    "gulp": "^3.7.0",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.2.0",
+    "react": "^0.12.2",
+    "reactify": "^0.13.1",
+    "es6-promise": "^1.0.0",
+    "flux": "^2.0.1",
+    "object-assign": "^1.0.0"
+  }
+}
