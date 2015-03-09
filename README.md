@@ -5,11 +5,8 @@ This is the simples possible App that I can think of that implements the React f
 ## Installation
 
     git clone git@github.com:bengrunfeld/react-flux-simple-app.git
-
     cd react-flux-simple-app
-
     npm install
-
     gulp
 
 ## Usage
