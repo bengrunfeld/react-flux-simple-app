@@ -6,8 +6,14 @@ var AppActions = {
     AppDispatcher.handleViewAction({
       actionType:AppConstants.ADD_ITEM,
       item: item
-    })
+    });
+  },
+  removeItem: function(itemIndex){
+    AppDispatcher.handleViewAction({
+      actionType:AppConstants.REMOVE_ITEM,
+      itemIndex: itemIndex
+    });
   }
 }
 
-module.exports = AppActions
+module.exports = AppActions;
